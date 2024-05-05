@@ -1,9 +1,14 @@
-
+import Ak from './ak';
 
 function App() {
 
+  const username = "AWP is best"
+
   return (
-    <h1>this is react W/ Vite</h1>
+    <>
+    <Ak />
+    <h1>AK with M4 {username}</h1>
+    </>
   );
 }
 
