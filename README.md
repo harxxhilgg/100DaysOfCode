@@ -9,3 +9,13 @@ Today, I delved into implementing binary search trees and tackled some challengi
 3. "To be or not to be"
 
 Check out my Leetcode Progress : https://leetcode.com/u/harshilx/
+
+## Day - 03
+
+🚀 Today I learned...
+
+1. Enhanced React skills: Custom functions/components for modularity.
+2. Mastering JSX: Keeping code clean, blending HTML & JS seamlessly.
+3. Dynamic UIs with React: Leveraging createElement() for flexibility.
+4. Advanced rendering techniques: Optimizing element generation.
+5. Insights: Deep dive into createElement() parameters.
