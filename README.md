@@ -72,3 +72,12 @@ Check out my Leetcode Progress : https://leetcode.com/u/harshilx/
 **Question - 05 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_5.png" width="500" height="250" alt="Question - 05"> <br> <br>
 **Question - 06 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_6.png" width="500" height="250" alt="Question - 06"> <br>
 
+## Day - 07
+
+LeetCode questions that I've solved Today: 
+
+1️. Array Reduce Transformation: I created a `reduce` function to transform an integer array by applying a given reducer function sequentially. It showcased the versatility of the `reduce` method in JavaScript. <br> <br>
+2. Function Composition Magic: I delved into function composition, crafting a `compose` function to combine an array of functions into a single one. This revealed the elegance of functional programming in JavaScript.
+
+**Question - 07 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_7.png" width="500" height="250" alt="Question - 05"> <br> <br>
+**Question - 08 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_8.png" width="500" height="250" alt="Question - 06"> <br>
