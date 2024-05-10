@@ -81,3 +81,19 @@ LeetCode questions that I've solved Today:
 
 **Question - 07 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_7.png" width="500" height="250" alt="Question - 05"> <br> <br>
 **Question - 08 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_8.png" width="500" height="250" alt="Question - 06"> <br>
+
+## Day - 08
+
+Introducing PasswordGenerator Project:
+
+Today, I unveiled PasswordGenerator, a robust application built with React hooks for seamless state management and optimized performance. Key highlights include:
+
+🔧 Leveraging React Hooks: Utilized useState, useEffect, and useCallback for efficient state management.
+
+💡 Dynamic UI: Designed an intuitive interface with dynamic input fields for password length and options for numbers and symbols.
+
+🔍 Effortless Copy to Clipboard: Implemented copyToClipboard functionality for easy password copying.
+
+🌟 Empowering Security: Promotes cybersecurity best practices and empowers users to safeguard their online accounts effectively.
+
+live project @ [here](https://passwordgenerator05.vercel.app/) <br> source code @ [here](https://github.com/harxxhilgg/100DaysOfCode/tree/main/05passwordGenerator).
