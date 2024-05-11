@@ -97,3 +97,20 @@ Today, I unveiled PasswordGenerator, a robust application built with React hooks
 🌟 Empowering Security: Promotes cybersecurity best practices and empowers users to safeguard their online accounts effectively.
 
 live project @ [here](https://passwordgenerator05.vercel.app/) <br> source code @ [here](https://github.com/harxxhilgg/100DaysOfCode/tree/main/05passwordGenerator).
+
+## Day - 09
+
+Today, I Solved 2 JavaScript DSA Questions on LeetCode.
+
+Problem 1: Return Length of Arguments Passed
+Problem Statement: Write a function argumentsLength that returns the count of arguments passed to it.
+
+Problem 2: Allow One Function Call
+Problem Statement: Given a function `fn`, return a new function that is identical to the original function except that it ensures `fn` is called at most once.
+
+This Questions Improved my Problem Solving Skills in; 
+1. Leveraging JavaScript's rest parameter for flexible function argument handling.
+2. Utilizing closure to maintain state across function calls.
+
+**Question - 09 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_9.png" width="500" height="250" alt="Question - 05"> <br> <br>
+**Question - 10 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_10.png" width="500" height="250" alt="Question - 06"> <br>
