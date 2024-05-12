@@ -114,3 +114,24 @@ This Questions Improved my Problem Solving Skills in;
 
 **Question - 09 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_9.png" width="500" height="250" alt="Question - 05"> <br> <br>
 **Question - 10 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_10.png" width="500" height="250" alt="Question - 06"> <br>
+
+# Day - 10
+
+🚀 Day 09 of the #100DaysOfCode 
+
+Today, I Solved 2 JavaScript DSA Questions on LeetCode.
+
+1️⃣ Memoization Magic:
+I tackled a fascinating problem involving memoization. By creating a memoized version of a function, I ensured that it never computes the same result twice for identical inputs. Utilizing JavaScript's Map data structure, I stored computed values and retrieved them efficiently. This optimization technique enhances the performance of functions, especially for repetitive computations.
+
+2️⃣ Promise Pairing:
+In another intriguing challenge, I mastered handling promises effectively. Given two promises resolving with numbers, I crafted a function to compute their sum asynchronously. Leveraging Promise.all, I synchronously awaited both promises to resolve, computed their sum, and returned a new promise with the result. This elegant solution showcases the power and simplicity of JavaScript's asynchronous capabilities.
+
+This is what I Learned from these quesitons;
+
+1. Memoization optimizes function performance by caching computed results.
+2. Promises offer a streamlined approach to asynchronous programming in JavaScript.
+3. Leveraging JavaScript's features creatively enhances problem-solving skills and code efficiency.
+
+**Question - 11 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_11.png" width="500" height="250" alt="Question - 05"> <br> <br>
+**Question - 12 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_12.png" width="500" height="250" alt="Question - 06"> <br>
