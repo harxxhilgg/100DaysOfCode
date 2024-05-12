@@ -97,3 +97,40 @@ Today, I unveiled PasswordGenerator, a robust application built with React hooks
 🌟 Empowering Security: Promotes cybersecurity best practices and empowers users to safeguard their online accounts effectively.
 
 live project @ [here](https://passwordgenerator05.vercel.app/) <br> source code @ [here](https://github.com/harxxhilgg/100DaysOfCode/tree/main/05passwordGenerator).
+
+## Day - 09
+
+Today, I Solved 2 JavaScript DSA Questions on LeetCode.
+
+Problem 1: Return Length of Arguments Passed
+Problem Statement: Write a function argumentsLength that returns the count of arguments passed to it.
+
+Problem 2: Allow One Function Call
+Problem Statement: Given a function `fn`, return a new function that is identical to the original function except that it ensures `fn` is called at most once.
+
+This Questions Improved my Problem Solving Skills in; 
+1. Leveraging JavaScript's rest parameter for flexible function argument handling.
+2. Utilizing closure to maintain state across function calls.
+
+**Question - 09 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_9.png" width="500" height="250" alt="Question - 05"> <br> <br>
+**Question - 10 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_10.png" width="500" height="250" alt="Question - 06"> <br>
+
+# Day - 11
+
+## Currency Converter
+
+Welcome to the Currency Converter project! This project aims to provide a simple and efficient tool for converting currencies using real-time exchange rates.
+
+### About
+
+The Currency Converter project is built with JavaScript and React, leveraging modern development tools like Vite for project setup and Tailwind CSS for styling. With a focus on usability and performance, this project offers a seamless experience for users to convert currencies effortlessly.
+
+### Features
+
+1. **Dynamic Currency Conversion**: Utilizing a custom hook, the Currency Converter fetches currency data from an API in real-time, allowing users to convert between various currencies with ease.
+  
+2. **Component Reusability**: Components are designed with reusability in mind, promoting modular code and enhancing maintainability.
+
+3. **Optimized Performance**: Efforts are made to optimize performance, ensuring smooth interactions and minimizing unnecessary re-renders for an improved user experience.
+
+Will be Optimizing, Updating & making it live in upcoming days.
