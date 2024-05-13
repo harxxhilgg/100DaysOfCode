@@ -117,7 +117,7 @@ This Questions Improved my Problem Solving Skills in;
 
 # Day - 10
 
-🚀 Day 09 of the #100DaysOfCode 
+🚀 Day 10 of the #100DaysOfCode 
 
 Today, I Solved 2 JavaScript DSA Questions on LeetCode.
 
