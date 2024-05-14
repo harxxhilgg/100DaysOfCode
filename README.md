@@ -156,3 +156,14 @@ The Currency Converter project is built with JavaScript and React, leveraging mo
 3. **Optimized Performance**: Efforts are made to optimize performance, ensuring smooth interactions and minimizing unnecessary re-renders for an improved user experience.
 
 Will be Optimizing, Updating & making it live in upcoming days.
+
+# Day - 12
+
+Continuing my JavaScript project - the Currency Converter! Today's wins:
+
+1. useId Hook: Discovered this new React hook for generating unique IDs. These IDs are perfect for accessibility attributes, allowing users to navigate the form using the TAB key ↹.
+2. Accessibility Boost: By using useId, I'm making the form more user-friendly for everyone!
+3. Keys vs. useId: Learned a valuable distinction - useId is not for generating list keys. List keys should be derived from your data for optimal performance.
+4. UI Upgrade: Added a background image to enhance the user experience!
+
+Project Still needs Improvements so Will Upload snapshot later.
