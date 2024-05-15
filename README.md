@@ -167,3 +167,22 @@ Continuing my JavaScript project - the Currency Converter! Today's wins:
 4. UI Upgrade: Added a background image to enhance the user experience!
 
 Project Still needs Improvements so Will Upload snapshot later.
+
+# Day - 13 
+
+Today I solved 2 LeetCode Problems based on JavaScript.
+
+1. Sleep Function
+
+`async function sleep(millis: number): Promise<void> {
+    return new Promise(r => setTimeout(r, millis));
+}`
+
+Async functions let you handle promises more easily. setTimeout delays code execution by a specified number of milliseconds.
+
+2. Timeout Cancellation
+
+Used clearTimeout to cancel a delayed execution if a cancel function is invoked.
+
+**Question - 13 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_13.png" width="500" height="250" alt="Question - 05"> <br> <br>
+**Question - 14 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_14.png" width="500" height="250" alt="Question - 06"> <br>
