@@ -186,3 +186,13 @@ Used clearTimeout to cancel a delayed execution if a cancel function is invoked.
 
 **Question - 13 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_13.png" width="500" height="250" alt="Question - 05"> <br> <br>
 **Question - 14 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_14.png" width="500" height="250" alt="Question - 06"> <br>
+
+# Day - 14
+
+Solved two JavaScript challenges:
+
+1. Interval Cancellation: Implemented a function that repeatedly calls another function at specified intervals with a mechanism to cancel the interval.
+2. Promise Time Limit: Developed a function that wraps an asynchronous operation with a time limit, ensuring timely completion or graceful failure.
+
+**Question - 15 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_15.png" width="500" height="250" alt="Question - 05"> <br> <br>
+**Question - 16 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_16.png" width="500" height="250" alt="Question - 06"> <br>
