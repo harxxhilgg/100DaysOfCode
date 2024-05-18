@@ -217,3 +217,9 @@ Key Functions:
 6.  **Counting Valid Keys:** Iterate through the cache, count non-expired keys, and remove expired ones. <br> <br>
 
 **Question - 17 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_17.png" width="500" height="250" alt="Question - 06"> <br>
+
+# Day - 16
+
+Tackled a JavaScript challenge by creating a debounced function to improve performance in web applications. This function delays execution and cancels repeated calls within a specified timeframe, ensuring efficient handling of events like resizing, scrolling, or typing.
+
+**Question - 18 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_18.png" width="500" height="250" alt="Question - 06"> <br>
