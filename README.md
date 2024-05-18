@@ -196,3 +196,24 @@ Solved two JavaScript challenges:
 
 **Question - 15 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_15.png" width="500" height="250" alt="Question - 05"> <br> <br>
 **Question - 16 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_16.png" width="500" height="250" alt="Question - 06"> <br>
+
+# Day - 15
+
+Solved a JavaScript LeetCode Problem
+
+Problem:
+Implement a time-limited cache where each key-value pair has an expiration time.
+
+Solution:
+
+Use a map to store key-value pairs and their expiration times.
+Key Functions:
+
+1. **set(key, value, duration)** : Adds or updates a key-value pair with an expiration time. Returns true if updated, false if new.
+2. **get(key)** : Retrieves the value if the key is valid and not expired. Returns the value or -1 if expired/not found.
+3. **count()** : Counts non-expired keys in the cache.
+4.  **Setting Values:** Calculate expiration time. Update if key exists, add if new.
+5.  **Getting Values:** Check expiration. Return value if valid, -1 if expired/not found.
+6.  **Counting Valid Keys:** Iterate through the cache, count non-expired keys, and remove expired ones. <br> <br>
+
+**Question - 17 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_17.png" width="500" height="250" alt="Question - 06"> <br>
