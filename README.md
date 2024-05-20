@@ -231,3 +231,11 @@ Asynchronous JavaScript Challenge!
 Solved a problem executing async functions in parallel without Promise.all. Key steps: handle empty input, track results and resolve count, and ensure robust error handling. All promises run in parallel, resolving or rejecting as appropriate.
 
 **Question - 19 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_19.png" width="500" height="250" alt="Question - 06"> <br>
+
+# Day - 18
+
+Solved "Is Object Empty?" JavaScript Challenge!
+
+Used for...in loop to determine if an object or array is empty by checking for key-value pairs or elements. Efficiently handles valid JSON objects/arrays. 
+
+**Question - 20 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_20.png" width="500" height="250" alt="Question - 06"> <br>
