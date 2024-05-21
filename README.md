@@ -239,3 +239,13 @@ Solved "Is Object Empty?" JavaScript Challenge!
 Used for...in loop to determine if an object or array is empty by checking for key-value pairs or elements. Efficiently handles valid JSON objects/arrays. 
 
 **Question - 20 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_20.png" width="500" height="250" alt="Question - 06"> <br>
+
+# Day - 19
+
+🚀 Day 19/100 of the #100DaysOfCode
+
+Question: Chunk Array
+
+Today, I solved a JavaScript problem: Chunk Array. I divided an array into subarrays of a specified size without using lodash's _.chunk function. Efficient and clean solution achieved! 
+
+**Question - 21 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_21.png" width="500" height="250" alt="Question - 06"> <br>
