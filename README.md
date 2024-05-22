@@ -8,9 +8,9 @@ Today, I delved into implementing binary search trees and tackled some challengi
 2. Counters
 3. "To be or not to be"
 
-**Question - 01 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_1.jpeg" width="500" height="250" alt="Question - 04"> <br> <br>
-**Question - 02 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_2.jpeg" width="500" height="250" alt="Question - 04"> <br> <br>
-**Question - 03 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_3.jpeg" width="500" height="250" alt="Question - 04"> <br> 
+**Question - 01 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_1.jpeg" width="500" height="250" alt="Question - 01"> <br> <br>
+**Question - 02 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_2.jpeg" width="500" height="250" alt="Question - 02"> <br> <br>
+**Question - 03 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_3.jpeg" width="500" height="250" alt="Question - 03"> <br> 
 
 Check out my Leetcode Progress : https://leetcode.com/u/harshilx/
 
@@ -79,8 +79,8 @@ LeetCode questions that I've solved Today:
 1️. Array Reduce Transformation: I created a `reduce` function to transform an integer array by applying a given reducer function sequentially. It showcased the versatility of the `reduce` method in JavaScript. <br> <br>
 2. Function Composition Magic: I delved into function composition, crafting a `compose` function to combine an array of functions into a single one. This revealed the elegance of functional programming in JavaScript.
 
-**Question - 07 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_7.png" width="500" height="250" alt="Question - 05"> <br> <br>
-**Question - 08 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_8.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 07 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_7.png" width="500" height="250" alt="Question - 07"> <br> <br>
+**Question - 08 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_8.png" width="500" height="250" alt="Question - 08"> <br>
 
 ## Day - 08
 
@@ -112,8 +112,8 @@ This Questions Improved my Problem Solving Skills in;
 1. Leveraging JavaScript's rest parameter for flexible function argument handling.
 2. Utilizing closure to maintain state across function calls.
 
-**Question - 09 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_9.png" width="500" height="250" alt="Question - 05"> <br> <br>
-**Question - 10 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_10.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 09 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_9.png" width="500" height="250" alt="Question - 09"> <br> <br>
+**Question - 10 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_10.png" width="500" height="250" alt="Question - 10"> <br>
 
 # Day - 10
 
@@ -133,8 +133,8 @@ This is what I Learned from these quesitons;
 2. Promises offer a streamlined approach to asynchronous programming in JavaScript.
 3. Leveraging JavaScript's features creatively enhances problem-solving skills and code efficiency.
 
-**Question - 11 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_11.png" width="500" height="250" alt="Question - 05"> <br> <br>
-**Question - 12 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_12.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 11 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_11.png" width="500" height="250" alt="Question - 11"> <br> <br>
+**Question - 12 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_12.png" width="500" height="250" alt="Question - 12"> <br>
 
 
 # Day - 11
@@ -184,8 +184,8 @@ Async functions let you handle promises more easily. setTimeout delays code exec
 
 Used clearTimeout to cancel a delayed execution if a cancel function is invoked.
 
-**Question - 13 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_13.png" width="500" height="250" alt="Question - 05"> <br> <br>
-**Question - 14 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_14.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 13 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_13.png" width="500" height="250" alt="Question - 13"> <br> <br>
+**Question - 14 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_14.png" width="500" height="250" alt="Question - 14"> <br>
 
 # Day - 14
 
@@ -194,8 +194,8 @@ Solved two JavaScript challenges:
 1. Interval Cancellation: Implemented a function that repeatedly calls another function at specified intervals with a mechanism to cancel the interval.
 2. Promise Time Limit: Developed a function that wraps an asynchronous operation with a time limit, ensuring timely completion or graceful failure.
 
-**Question - 15 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_15.png" width="500" height="250" alt="Question - 05"> <br> <br>
-**Question - 16 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_16.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 15 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_15.png" width="500" height="250" alt="Question - 15"> <br> <br>
+**Question - 16 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_16.png" width="500" height="250" alt="Question - 16"> <br>
 
 # Day - 15
 
@@ -216,13 +216,13 @@ Key Functions:
 5.  **Getting Values:** Check expiration. Return value if valid, -1 if expired/not found.
 6.  **Counting Valid Keys:** Iterate through the cache, count non-expired keys, and remove expired ones. <br> <br>
 
-**Question - 17 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_17.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 17 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_17.png" width="500" height="250" alt="Question - 17"> <br>
 
 # Day - 16
 
 Tackled a JavaScript challenge by creating a debounced function to improve performance in web applications. This function delays execution and cancels repeated calls within a specified timeframe, ensuring efficient handling of events like resizing, scrolling, or typing.
 
-**Question - 18 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_18.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 18 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_18.png" width="500" height="250" alt="Question - 18"> <br>
 
 # Day - 17
 
@@ -230,7 +230,7 @@ Asynchronous JavaScript Challenge!
 
 Solved a problem executing async functions in parallel without Promise.all. Key steps: handle empty input, track results and resolve count, and ensure robust error handling. All promises run in parallel, resolving or rejecting as appropriate.
 
-**Question - 19 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_19.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 19 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_19.png" width="500" height="250" alt="Question - 19"> <br>
 
 # Day - 18
 
@@ -238,7 +238,7 @@ Solved "Is Object Empty?" JavaScript Challenge!
 
 Used for...in loop to determine if an object or array is empty by checking for key-value pairs or elements. Efficiently handles valid JSON objects/arrays. 
 
-**Question - 20 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_20.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 20 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_20.png" width="500" height="250" alt="Question - 20"> <br>
 
 # Day - 19
 
@@ -248,4 +248,11 @@ Question: Chunk Array
 
 Today, I solved a JavaScript problem: Chunk Array. I divided an array into subarrays of a specified size without using lodash's _.chunk function. Efficient and clean solution achieved! 
 
-**Question - 21 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_21.png" width="500" height="250" alt="Question - 06"> <br>
+**Question - 21 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_21.png" width="500" height="250" alt="Question - 21"> <br>
+
+# day - 20
+
+Question: Array Prototype Last
+Enhances all arrays with a last() method that returns the last element, or -1 if the array is empty. This implementation ensures that arrays parsed from JSON can easily access their final element.
+
+**Question - 22 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_22.png" width="500" height="250" alt="Question - 22"> <br>
