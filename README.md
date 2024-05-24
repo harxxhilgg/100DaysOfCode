@@ -264,3 +264,11 @@ Question: JavaScript Group By Challenge
 Enhanced arrays with a groupBy(fn) method to group elements into an object based on a callback function's output. This exercise deepened my understanding of JavaScript array and object handling without relying on external libraries. Feeling accomplished and ready for more!
 
 **Question - 23 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_23.png" width="500" height="250" alt="Question - 23"> <br>
+
+# Day - 22 
+
+Question: Sort By
+
+Today, I solved a JavaScript problem involving custom sorting of an array using a comparison function.
+
+**Question - 24 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_24.png" width="500" height="250" alt="Question - 23"> <br>
