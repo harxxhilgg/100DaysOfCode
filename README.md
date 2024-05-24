@@ -256,3 +256,11 @@ Question: Array Prototype Last
 Enhances all arrays with a last() method that returns the last element, or -1 if the array is empty. This implementation ensures that arrays parsed from JSON can easily access their final element.
 
 **Question - 22 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_22.png" width="500" height="250" alt="Question - 22"> <br>
+
+# Day - 21
+
+Question: JavaScript Group By Challenge
+
+Enhanced arrays with a groupBy(fn) method to group elements into an object based on a callback function's output. This exercise deepened my understanding of JavaScript array and object handling without relying on external libraries. Feeling accomplished and ready for more!
+
+**Question - 23 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_23.png" width="500" height="250" alt="Question - 23"> <br>
