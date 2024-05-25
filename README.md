@@ -272,3 +272,11 @@ Question: Sort By
 Today, I solved a JavaScript problem involving custom sorting of an array using a comparison function.
 
 **Question - 24 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_24.png" width="500" height="250" alt="Question - 23"> <br>
+
+# Day - 23 
+
+Question: Join Two Arrays by ID in JavaScript
+
+Solved a JavaScript problem where I merged two arrays of objects based on their id property, ensuring unique id values and sorting the result in ascending order by id.
+
+**Question - 25 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_25.png" width="500" height="250" alt="Question - 23"> <br>
