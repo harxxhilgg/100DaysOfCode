@@ -271,7 +271,7 @@ Question: Sort By
 
 Today, I solved a JavaScript problem involving custom sorting of an array using a comparison function.
 
-**Question - 24 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_24.png" width="500" height="250" alt="Question - 23"> <br>
+**Question - 24 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_24.png" width="500" height="250" alt="Question - 24"> <br>
 
 # Day - 23 
 
@@ -279,4 +279,12 @@ Question: Join Two Arrays by ID in JavaScript
 
 Solved a JavaScript problem where I merged two arrays of objects based on their id property, ensuring unique id values and sorting the result in ascending order by id.
 
-**Question - 25 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_25.png" width="500" height="250" alt="Question - 23"> <br>
+**Question - 25 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_25.png" width="500" height="250" alt="Question - 25"> <br>
+
+# Day - 24
+
+Question: Flatten Deeply Nested Array in JavaScript
+
+Solved a problem to flatten a deeply nested array up to a specified depth without using Array.flat. The solution involves a recursive approach to handle array traversal and depth control.
+
+**Question - 26 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_26.png" width="500" height="250" alt="Question - 26"> <br>
