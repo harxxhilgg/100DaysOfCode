@@ -296,3 +296,11 @@ Question: Compact Object in JavaScript
 Compact Object. The goal was to remove all falsy values from objects and arrays, including nested structures. Using recursion and built-in methods like filter, map, and reduce, I created a solution that efficiently handles valid JSON inputs.
 
 **Question - 27 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_27.png" width="500" height="250" alt="Question - 27"> <br>
+
+# Day - 26
+
+Question: Event Emitter in JavaScript
+
+Today, I designed an EventEmitter class in JavaScript, enhancing my skills in event-driven programming. It supports subscribing and unsubscribing to events, and emitting events with arguments. This exercise improved my understanding of scalable code and asynchronous callbacks.
+
+**Question - 28 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_28.png" width="500" height="250" alt="Question - 28"> <br>
