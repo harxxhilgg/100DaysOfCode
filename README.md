@@ -288,3 +288,11 @@ Question: Flatten Deeply Nested Array in JavaScript
 Solved a problem to flatten a deeply nested array up to a specified depth without using Array.flat. The solution involves a recursive approach to handle array traversal and depth control.
 
 **Question - 26 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_26.png" width="500" height="250" alt="Question - 26"> <br>
+
+# Day - 25 
+
+Question: Compact Object in JavaScript
+
+Compact Object. The goal was to remove all falsy values from objects and arrays, including nested structures. Using recursion and built-in methods like filter, map, and reduce, I created a solution that efficiently handles valid JSON inputs.
+
+**Question - 27 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_27.png" width="500" height="250" alt="Question - 27"> <br>
