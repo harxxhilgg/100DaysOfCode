@@ -304,3 +304,14 @@ Question: Event Emitter in JavaScript
 Today, I designed an EventEmitter class in JavaScript, enhancing my skills in event-driven programming. It supports subscribing and unsubscribing to events, and emitting events with arguments. This exercise improved my understanding of scalable code and asynchronous callbacks.
 
 **Question - 28 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_28.png" width="500" height="250" alt="Question - 28"> <br>
+
+# Day - 27 
+
+Question: Array Wrapper
+
+Today I implemented an Array Wrapper class in JavaScript. This class allows:
+
+1. Summing elements from two instances using the + operator.
+2. Converting an instance to a comma-separated string in brackets using the String() function.
+
+**Question - 29 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_29.png" width="500" height="250" alt="Question - 29"> <br>
