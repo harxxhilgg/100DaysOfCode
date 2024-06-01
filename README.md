@@ -323,3 +323,13 @@ Question: Calculator with Method Chaining in TypeScript
 A Calculator class that supports method chaining for addition, subtraction, multiplication, division, and exponentiation. The class ensures safe division by handling division by zero and provides a fluent interface for consecutive operations. Retrieve the current result with the getResult method.
 
 **Question - 30 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_30.png" width="500" height="250" alt="Question - 30"> <br>
+
+# Day - 29
+
+From Today, I've Started to Solve LeetCode Daily Question Along-side Learning React / Web Development. 
+
+Today's Question: Score of a String (I'm trying to Solve this Problems in TypeScript/JavaScript Language)
+
+Solved the problem by summing the absolute differences between the ASCII values of adjacent characters.
+
+**Question - 31 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_1.png" width="500" height="250" alt="Question - 31"> <br>
