@@ -315,3 +315,11 @@ Today I implemented an Array Wrapper class in JavaScript. This class allows:
 2. Converting an instance to a comma-separated string in brackets using the String() function.
 
 **Question - 29 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_29.png" width="500" height="250" alt="Question - 29"> <br>
+
+# Day - 28
+
+Question: Calculator with Method Chaining in TypeScript
+
+A Calculator class that supports method chaining for addition, subtraction, multiplication, division, and exponentiation. The class ensures safe division by handling division by zero and provides a fluent interface for consecutive operations. Retrieve the current result with the getResult method.
+
+**Question - 30 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_30.png" width="500" height="250" alt="Question - 30"> <br>
