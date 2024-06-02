@@ -307,7 +307,7 @@ Today, I designed an EventEmitter class in JavaScript, enhancing my skills in ev
 
 # Day - 27 
 
-Question: Array Wrapper
+Question: Array Wrapper in JS 
 
 Today I implemented an Array Wrapper class in JavaScript. This class allows:
 
