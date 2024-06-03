@@ -333,3 +333,17 @@ Today's Question: Score of a String (I'm trying to Solve this Problems in TypeSc
 Solved the problem by summing the absolute differences between the ASCII values of adjacent characters.
 
 **Question - 31 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_1.png" width="500" height="250" alt="Question - 31"> <br>
+
+# Day - 30
+
+Solved LeetCode's Reverse String problem by implementing a JavaScript function that reverses a string in place using two pointers.
+
+**Question - 32 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_2.png" width="500" height="250" alt="Question - 32"> <br>
+
+# Day - 31 
+
+Question: Append Characters
+
+Solved a LeetCode Daily Question to determine the minimum number of characters needed to be appended to a string s so that another string t becomes a subsequence of s. This solution involves efficient string manipulation and comparison techniques.
+
+**Question - 33 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_3.png" width="500" height="250" alt="Question - 33"> <br>
