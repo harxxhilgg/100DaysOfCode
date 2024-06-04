@@ -347,3 +347,11 @@ Question: Append Characters
 Solved a LeetCode Daily Question to determine the minimum number of characters needed to be appended to a string s so that another string t becomes a subsequence of s. This solution involves efficient string manipulation and comparison techniques.
 
 **Question - 33 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_3.png" width="500" height="250" alt="Question - 33"> <br>
+
+# Day - 32
+
+Question: Longest Palindrome
+
+This code finds the longest possible palindrome substring length in a string considering both even and odd character frequencies.
+
+**Question - 34 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_4.png" width="500" height="250" alt="Question - 34"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_4_code.png" width="500" height="250" alt="Question - 34">
