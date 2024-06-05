@@ -355,3 +355,12 @@ Question: Longest Palindrome
 This code finds the longest possible palindrome substring length in a string considering both even and odd character frequencies.
 
 **Question - 34 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_4.png" width="500" height="250" alt="Question - 34"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_4_code.png" width="500" height="250" alt="Question - 34">
+
+
+# Day - 33 
+
+Question: Find Common Characters in TypeScript
+
+Solved "Find Common Characters" by creating a function that identifies and returns the common characters appearing in all strings of a given array. The solution efficiently calculates the minimum frequency of each character across all words.
+
+**Question - 35 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_5.png" width="500" height="250" alt="Question - 35"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_5_code.png" width="500" height="250" alt="Question - 34">
