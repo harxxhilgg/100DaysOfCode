@@ -350,7 +350,7 @@ Solved a LeetCode Daily Question to determine the minimum number of characters n
 
 # Day - 32
 
-Question: Longest Palindrome
+Question: Longest Palindrome in JavaScript
 
 This code finds the longest possible palindrome substring length in a string considering both even and odd character frequencies.
 
