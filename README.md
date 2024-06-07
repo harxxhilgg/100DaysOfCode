@@ -363,4 +363,13 @@ Question: Find Common Characters in TypeScript
 
 Solved "Find Common Characters" by creating a function that identifies and returns the common characters appearing in all strings of a given array. The solution efficiently calculates the minimum frequency of each character across all words.
 
-**Question - 35 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_5.png" width="500" height="250" alt="Question - 35"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_5_code.png" width="500" height="250" alt="Question - 34">
+**Question - 35 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_5.png" width="500" height="250" alt="Question - 35"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_5_code.png" width="500" height="250" alt="Question - 35">
+
+
+# Day - 34
+
+Question: Replace Words in TypeScript
+
+Implemented a solution to the "Replace Words" problem using a Trie data structure for efficient word replacement. The solution involves inserting dictionary roots into the trie and replacing derivatives in a sentence with their corresponding roots.
+
+**Question - 36 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_6.png" width="500" height="250" alt="Question - 36"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_6_code.png" width="500" height="250" alt="Question - 36">
