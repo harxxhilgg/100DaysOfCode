@@ -373,3 +373,12 @@ Question: Replace Words in TypeScript
 Implemented a solution to the "Replace Words" problem using a Trie data structure for efficient word replacement. The solution involves inserting dictionary roots into the trie and replacing derivatives in a sentence with their corresponding roots.
 
 **Question - 36 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_6.png" width="500" height="250" alt="Question - 36"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_6_code.png" width="500" height="250" alt="Question - 36">
+
+
+# Day - 35
+
+Question: Continuous Subarray Sum
+
+Solved the LeetCode problem to check if an array contains a subarray with at least two elements whose sum is a multiple of k. Used a map to track remainders of the cumulative sum to efficiently determine the presence of such a subarray.
+
+**Question - 37 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_7.png" width="500" height="250" alt="Question - 37"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_7_code.png" width="500" height="250" alt="Question - 37">
