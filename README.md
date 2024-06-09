@@ -382,3 +382,11 @@ Question: Continuous Subarray Sum
 Solved the LeetCode problem to check if an array contains a subarray with at least two elements whose sum is a multiple of k. Used a map to track remainders of the cumulative sum to efficiently determine the presence of such a subarray.
 
 **Question - 37 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_7.png" width="500" height="250" alt="Question - 37"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_7_code.png" width="500" height="250" alt="Question - 37">
+
+# Day - 36
+
+Question: Subarray Sums Divisible by K - in Python
+
+Solved the LeetCode problem "Subarray Sums Divisible by K" using a dictionary to track remainders of prefix sums. This approach efficiently counts the number of subarrays with sums divisible by k.
+
+**Question - 38 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_8.png" width="500" height="250" alt="Question - 38"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_8_code.png" width="500" height="250" alt="Question - 38">
