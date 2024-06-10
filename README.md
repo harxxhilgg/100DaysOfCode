@@ -390,3 +390,11 @@ Question: Subarray Sums Divisible by K - in Python
 Solved the LeetCode problem "Subarray Sums Divisible by K" using a dictionary to track remainders of prefix sums. This approach efficiently counts the number of subarrays with sums divisible by k.
 
 **Question - 38 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_8.png" width="500" height="250" alt="Question - 38"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_8_code.png" width="500" height="250" alt="Question - 38">
+
+# Day - 37
+
+Question: Height Checker - in JavaScript
+
+Solved the "Height Calculator" problem in JavaScript. Implemented an efficient solution to find mismatched indices in height orderings with O(n) time and space complexity. Feeling great about the progress!
+
+**Question - 39 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_9.png" width="500" height="250" alt="Question - 39"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_9_code.png" width="500" height="250" alt="Question - 39">
