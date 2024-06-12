@@ -406,3 +406,11 @@ Question: Relative Sort Array - in JavaScript
 Today I solved the LeetCode Daily Question "Relative Sort Array" in JavaScript. The solution involves counting occurrences of each number in arr1, ordering them based on arr2, and appending any remaining numbers in ascending order.
 
 **Question - 40 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_10.png" width="500" height="250" alt="Question - 40"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_10_code.png" width="500" height="250" alt="Question - 40">
+
+# Day - 39
+
+Question: Sort Colors - in JavaScript
+
+Solved the LeetCode Daily Question "Sort Colors" in JavaScript. Implemented an in-place sorting algorithm using three pointers to sort the array in one pass without using the library's sort function.
+
+**Question - 41 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_11.png" width="500" height="250" alt="Question - 41"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_11_code.png" width="500" height="250" alt="Question - 41">
