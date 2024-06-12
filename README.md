@@ -398,3 +398,11 @@ Question: Height Checker - in JavaScript
 Solved the "Height Calculator" problem in JavaScript. Implemented an efficient solution to find mismatched indices in height orderings with O(n) time and space complexity. Feeling great about the progress!
 
 **Question - 39 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_9.png" width="500" height="250" alt="Question - 39"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_9_code.png" width="500" height="250" alt="Question - 39">
+
+# Day - 38
+
+Question: Relative Sort Array - in JavaScript
+
+Today I solved the LeetCode Daily Question "Relative Sort Array" in JavaScript. The solution involves counting occurrences of each number in arr1, ordering them based on arr2, and appending any remaining numbers in ascending order.
+
+**Question - 40 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_10.png" width="500" height="250" alt="Question - 40"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_10_code.png" width="500" height="250" alt="Question - 40">
