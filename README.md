@@ -414,3 +414,11 @@ Question: Sort Colors - in JavaScript
 Solved the LeetCode Daily Question "Sort Colors" in JavaScript. Implemented an in-place sorting algorithm using three pointers to sort the array in one pass without using the library's sort function.
 
 **Question - 41 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_11.png" width="500" height="250" alt="Question - 41"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_11_code.png" width="500" height="250" alt="Question - 41">
+
+# Day - 40
+
+Question: 2037 - Minimum Number of Moves to Seat Everyone - in JavaScript
+
+Sort both seats and students arrays, then calculate the total moves required by summing the absolute differences between corresponding elements. This ensures each student is seated with the minimum number of moves.
+
+**Question - 42 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_12.png" width="500" height="250" alt="Question - 42"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_12_code.png" width="500" height="250" alt="Question - 42">
