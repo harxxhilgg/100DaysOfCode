@@ -422,3 +422,11 @@ Question: 2037 - Minimum Number of Moves to Seat Everyone - in JavaScript
 Sort both seats and students arrays, then calculate the total moves required by summing the absolute differences between corresponding elements. This ensures each student is seated with the minimum number of moves.
 
 **Question - 42 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_12.png" width="500" height="250" alt="Question - 42"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_12_code.png" width="500" height="250" alt="Question - 42">
+
+# Day - 41
+
+Question: 945 - Minimum Increment to Make Array Unique - in JavaScript
+
+Solved the LeetCode problem "Minimum Increment to Make Array Unique" in JavaScript. The solution involves sorting the array, iterating through it to calculate necessary increments, and ensuring all elements are unique with the minimum number of moves.
+
+**Question - 43 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_13.png" width="500" height="250" alt="Question - 43"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_13_code.png" width="500" height="250" alt="Question - 43">
