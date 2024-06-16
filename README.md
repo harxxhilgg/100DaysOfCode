@@ -438,3 +438,11 @@ Question: 502 - IPO - in JavaScript
 Maximizes capital by completing up to k projects using a priority queue to manage and select the most profitable projects within available capital.
 
 **Question - 44 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_14.png" width="500" height="250" alt="Question - 44">
+
+# Day - 43
+
+Question: 330 - Patching Array - in JavaScript
+
+Ensured any number in `[1, n]` can be formed by patching elements to the array with minimal additions.
+
+**Question - 45 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_15.png" width="500" height="250" alt="Question - 45"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_15_code.png" width="500" height="250" alt="Question - 45">
