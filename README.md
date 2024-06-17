@@ -446,3 +446,11 @@ Question: 330 - Patching Array - in JavaScript
 Ensured any number in `[1, n]` can be formed by patching elements to the array with minimal additions.
 
 **Question - 45 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_15.png" width="500" height="250" alt="Question - 45"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_15_code.png" width="500" height="250" alt="Question - 45">
+
+# Day - 44
+
+Question: 633 - Sum of Square Numbers - in JavaScript
+
+Used a two-pointer approach in JavaScript to check if a non-negative integer c can be expressed as the sum of two squares. #LeetCode #JavaScript
+
+**Question - 46 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_16.png" width="500" height="250" alt="Question - 46"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_16_code.png" width="500" height="250" alt="Question - 46">
