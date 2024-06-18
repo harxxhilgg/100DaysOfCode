@@ -454,3 +454,11 @@ Question: 633 - Sum of Square Numbers - in JavaScript
 Used a two-pointer approach in JavaScript to check if a non-negative integer c can be expressed as the sum of two squares. #LeetCode #JavaScript
 
 **Question - 46 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_16.png" width="500" height="250" alt="Question - 46"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_16_code.png" width="500" height="250" alt="Question - 46">
+
+# Day - 45
+
+Question: 826 - Most Profit Assigning Work - in JavaScript
+
+Implemented a solution to maximize total profit by assigning workers to jobs based on their abilities, optimizing job difficulty and profit. 🚀
+
+**Question - 47 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_17.png" width="500" height="250" alt="Question - 47"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_17_code.png" width="500" height="250" alt="Question - 47">
