@@ -467,4 +467,4 @@ Implemented a solution to maximize total profit by assigning workers to jobs bas
 
 Solved LeetCode's 1482 - Minimum Number of Days to Make m Bouquets using binary search to efficiently find the earliest day to form the required bouquets.
 
-**Question - 48 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_18.png" width="500" height="250" alt="Question - 48"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_18_code.png" width="500" height="250" alt="Question - 48">
+**Question - 48 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_18.png" width="500" height="250" alt="Question - 48">
