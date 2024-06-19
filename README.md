@@ -462,3 +462,9 @@ Question: 826 - Most Profit Assigning Work - in JavaScript
 Implemented a solution to maximize total profit by assigning workers to jobs based on their abilities, optimizing job difficulty and profit. 🚀
 
 **Question - 47 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_17.png" width="500" height="250" alt="Question - 47"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_17_code.png" width="500" height="250" alt="Question - 47">
+
+# Day - 45
+
+Solved LeetCode's 1482 - Minimum Number of Days to Make m Bouquets using binary search to efficiently find the earliest day to form the required bouquets.
+
+**Question - 48 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_18.png" width="500" height="250" alt="Question - 48"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_18_code.png" width="500" height="250" alt="Question - 48">
