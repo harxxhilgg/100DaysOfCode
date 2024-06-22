@@ -463,16 +463,24 @@ Implemented a solution to maximize total profit by assigning workers to jobs bas
 
 **Question - 47 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_17.png" width="500" height="250" alt="Question - 47"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_17_code.png" width="500" height="250" alt="Question - 47">
 
-# Day - 45
+# Day - 46
 
 Solved LeetCode's 1482 - Minimum Number of Days to Make m Bouquets using binary search to efficiently find the earliest day to form the required bouquets.
 
 **Question - 48 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_18.png" width="500" height="250" alt="Question - 48">
 
-# Day - 46
+# Day - 47
 
 Question: 1552 - Magnetic Force Between Two Balls - in JS on LeetCode
 
 Solved the problem using a binary search approach in JavaScript to maximize the minimum magnetic force between balls placed in baskets. The solution sorts the positions and performs a binary search to find the optimal placement distance.
 
 **Question - 49 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_19.png" width="500" height="250" alt="Question - 49">
+
+# Day - 48
+
+Question: 1052 - Grumpy Bookstore Owner - in JS on LeetCode
+
+Used a sliding window technique to maximize customer satisfaction by calculating always satisfied customers and optimizing additional satisfaction during a grumpy period.
+
+**Question - 50 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_20.png" width="500" height="250" alt="Question - 50"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_20_code.png" width="500" height="250" alt="Question - 50">
