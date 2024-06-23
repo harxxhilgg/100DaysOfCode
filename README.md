@@ -490,3 +490,9 @@ Used a sliding window technique to maximize customer satisfaction by calculating
 Solved LeetCode Problem 1248: Count Number of Nice Subarrays in JavaScript. Utilized a sliding window approach to efficiently count subarrays with exactly k odd numbers.
 
 **Question - 51 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_21.png" width="500" height="250" alt="Question - 51">
+
+# Day - 50
+
+Solved LeetCode 1438: Longest Continuous Subarray With Absolute Diff ≤ Limit using deques in JavaScript to efficiently manage the sliding window. Tracked indices of max and min values to maintain the longest valid subarray.
+
+**Question - 52 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_22.png" width="500" height="250" alt="Question - 52">
