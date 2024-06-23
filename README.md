@@ -484,3 +484,9 @@ Question: 1052 - Grumpy Bookstore Owner - in JS on LeetCode
 Used a sliding window technique to maximize customer satisfaction by calculating always satisfied customers and optimizing additional satisfaction during a grumpy period.
 
 **Question - 50 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_20.png" width="500" height="250" alt="Question - 50"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_20_code.png" width="500" height="250" alt="Question - 50">
+
+# Day - 49
+
+Solved LeetCode Problem 1248: Count Number of Nice Subarrays in JavaScript. Utilized a sliding window approach to efficiently count subarrays with exactly k odd numbers.
+
+**Question - 51 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_21.png" width="500" height="250" alt="Question - 51">
