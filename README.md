@@ -496,3 +496,9 @@ Solved LeetCode Problem 1248: Count Number of Nice Subarrays in JavaScript. Util
 Solved LeetCode 1438: Longest Continuous Subarray With Absolute Diff ≤ Limit using deques in JavaScript to efficiently manage the sliding window. Tracked indices of max and min values to maintain the longest valid subarray.
 
 **Question - 52 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_22.png" width="500" height="250" alt="Question - 52">
+
+# Day - 51
+
+Implemented a function in JavaScript to determine the minimum number of k-bit flips needed to turn a binary array nums into all 1s. The solution efficiently tracks flips using modulo arithmetic and handles constraints to return the required number of flips or -1 if not possible.
+
+**Question - 53 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_23.png" width="500" height="250" alt="Question - 53">
