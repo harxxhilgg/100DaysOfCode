@@ -502,3 +502,9 @@ Solved LeetCode 1438: Longest Continuous Subarray With Absolute Diff ≤ Limit u
 Implemented a function in JavaScript to determine the minimum number of k-bit flips needed to turn a binary array nums into all 1s. The solution efficiently tracks flips using modulo arithmetic and handles constraints to return the required number of flips or -1 if not possible.
 
 **Question - 53 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_23.png" width="500" height="250" alt="Question - 53">
+
+# Day - 52
+
+Today I solved LeetCode Problem 1038: Binary Search Tree to Greater Sum Tree using JavaScript. The solution uses a recursive reverse inorder traversal to transform the BST, ensuring each node's value is updated to include all greater node values efficiently.
+
+**Question - 54 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_24.png" width="500" height="250" alt="Question - 54"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_24_code.png" width="500" height="250" alt="Question - 54">
