@@ -409,7 +409,7 @@ Today I solved the LeetCode Daily Question "Relative Sort Array" in JavaScript. 
 
 # Day - 39
 
-Question: Sort Colors - in JavaScript
+Question: Sort Colors
 
 Solved the LeetCode Daily Question "Sort Colors" in JavaScript. Implemented an in-place sorting algorithm using three pointers to sort the array in one pass without using the library's sort function.
 
