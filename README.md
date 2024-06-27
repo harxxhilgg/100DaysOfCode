@@ -508,3 +508,13 @@ Implemented a function in JavaScript to determine the minimum number of k-bit fl
 Today I solved LeetCode Problem 1038: Binary Search Tree to Greater Sum Tree using JavaScript. The solution uses a recursive reverse inorder traversal to transform the BST, ensuring each node's value is updated to include all greater node values efficiently.
 
 **Question - 54 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_24.png" width="500" height="250" alt="Question - 54"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_24_code.png" width="500" height="250" alt="Question - 54">
+
+# Day - 53
+
+Problem 1791 - Find Center of Star Graph
+
+Given an undirected star graph represented by edge pairs, where each pair [ui, vi] indicates an edge between nodes ui and vi, find and return the center node of the star graph. The center node connects to every other node via exactly n - 1 edges, making it the node with the highest degree in the graph.
+
+This solution efficiently determines the center node in O(E) time complexity, where E is the number of edges, by counting occurrences of each node in the edge list.
+
+**Question - 55 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_25.png" width="500" height="250" alt="Question - 55">
