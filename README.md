@@ -518,3 +518,11 @@ Given an undirected star graph represented by edge pairs, where each pair [ui, v
 This solution efficiently determines the center node in O(E) time complexity, where E is the number of edges, by counting occurrences of each node in the edge list.
 
 **Question - 55 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_25.png" width="500" height="250" alt="Question - 55">
+
+# Day - 54
+
+Problem 2192 - All Ancestors of a Node in a Directed Acyclic Graph
+
+Implemented a solution to find ancestors for nodes in a Directed Acyclic Graph (DAG). Used DFS to traverse the graph, recording ancestors for each node. The result is a list where each element contains the sorted ancestors of the corresponding node.
+
+**Question - 56 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_26.png" width="500" height="250" alt="Question - 56">
