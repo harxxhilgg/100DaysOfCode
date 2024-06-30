@@ -526,3 +526,12 @@ Problem 2192 - All Ancestors of a Node in a Directed Acyclic Graph
 Implemented a solution to find ancestors for nodes in a Directed Acyclic Graph (DAG). Used DFS to traverse the graph, recording ancestors for each node. The result is a list where each element contains the sorted ancestors of the corresponding node.
 
 **Question - 56 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_26.png" width="500" height="250" alt="Question - 56">
+
+# Day - 55
+
+Problem 1579 - Remove Max Number of Edges to Keep Graph Fully Traversable
+
+featured a UnionFind class for managing disjoint sets with union and find operations, and a Solution class with maxNumEdgesToRemove to solve a graph problem by handling different edge types. It returns the number of redundant edges removed or -1 if the graph cannot be fully connected.
+
+
+**Question - 57 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_27.png" width="500" height="250" alt="Question - 57"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_june_award.png" width="500" height="250" alt="Question - 57">>
