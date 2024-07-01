@@ -534,3 +534,11 @@ Problem 1579 - Remove Max Number of Edges to Keep Graph Fully Traversable
 featured a UnionFind class for managing disjoint sets with union and find operations, and a Solution class with maxNumEdgesToRemove to solve a graph problem by handling different edge types. It returns the number of redundant edges removed or -1 if the graph cannot be fully connected.
 
 **Question - 57 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_27.png" width="500" height="250" alt="Question - 57"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_june_award.png" width="500" height="250" alt="Question - 57">
+
+# Day - 56
+
+Problem:  1550 -  Three Consecutive Odds
+
+Implemented a solution to check if an integer array contains three consecutive odd numbers. Iterated through the array and used a counter to track consecutive odds.
+
+**Question - 58 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_28.png" width="500" height="250" alt="Question - 58">
