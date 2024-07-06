@@ -542,3 +542,11 @@ Problem:  1550 -  Three Consecutive Odds
 Implemented a solution to check if an integer array contains three consecutive odd numbers. Iterated through the array and used a counter to track consecutive odds.
 
 **Question - 58 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_28.png" width="500" height="250" alt="Question - 58">
+
+# Day - 57
+
+Problem:  2582 - Pass the Pillow
+
+The `passThePillow` function calculates the position of the person holding the pillow after a given time for `n` people. It uses the remainder of time divided by `(n - 1) * 2` to manage the cyclical pattern, returning the position based on whether the remainder is less than `n` (clockwise) or not (counterclockwise).
+
+**Question - 59 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_29.png" width="500" height="250" alt="Question - 59">
