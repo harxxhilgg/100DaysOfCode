@@ -16,7 +16,7 @@ Check out my Leetcode Progress : https://leetcode.com/u/harshilx/
 
 ## Day - 03
 
-Today I learned...
+_Today I learned..._
 
 1. **Enhanced React skills:** Custom functions/components for modularity.
 2. **Mastering JSX:** Keeping code clean, blending HTML & JS seamlessly.
@@ -26,7 +26,7 @@ Today I learned...
 
 ## Day - 04 
 
-In today's coding adventure, I continued my exploration of React, delving deeper into its capabilities and unraveling some fascinating concepts:
+_In today's coding adventure, I continued my exploration of React, delving deeper into its capabilities and unraveling some fascinating concepts:_
 
 1. **useState Hook:** Today, I honed my skills with the useState() hook, mastering its syntax and unlocking new possibilities for state management in my React applications.
 2. **Interactive Components:** Building upon yesterday's progress, I crafted interactive components like a counter with buttons, enriching user interaction and engagement.
@@ -38,7 +38,7 @@ Key Takeaways: React's useState Hook, Virtual DOM, and React Fiber are powerful 
 
 ## Day - 05
 
-Today's Learning Journey: Elevating React Development with Vite and Tailwind 🚀
+_Today's Learning Journey: Elevating React Development with Vite and Tailwind 🚀_
 
 1. **Streamlined Environment Setup:** Architected a robust React project with Vite and Tailwind CSS for scalable and responsive UIs.
 2. **Leveraging Props for Reusability:** Mastered props in React to create modular and reusable components, enhancing project maintainability.
@@ -66,7 +66,7 @@ Crafted a map function to apply a transformation function to each element in an 
 3️. **Filtering Elements from an Array:**
 Developed a filter function to efficiently sift through an array, retaining only the elements that satisfy a given condition.
 
-Check out my Leetcode Progress : https://leetcode.com/u/harshilx/
+_Check out my Leetcode Progress : https://leetcode.com/u/harshilx/_
 
 **Question - 04 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_4.png" width="500" height="250" alt="Question - 04"> <br> <br>
 **Question - 05 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_5.png" width="500" height="250" alt="Question - 05"> <br> <br>
@@ -76,8 +76,8 @@ Check out my Leetcode Progress : https://leetcode.com/u/harshilx/
 
 LeetCode questions that I've solved Today: 
 
-1️. Array Reduce Transformation: I created a `reduce` function to transform an integer array by applying a given reducer function sequentially. It showcased the versatility of the `reduce` method in JavaScript. <br> <br>
-2. Function Composition Magic: I delved into function composition, crafting a `compose` function to combine an array of functions into a single one. This revealed the elegance of functional programming in JavaScript.
+1. _Array Reduce Transformation:_ I created a `reduce` function to transform an integer array by applying a given reducer function sequentially. It showcased the versatility of the `reduce` method in JavaScript. <br> <br>
+2. _Function Composition Magic:_ I delved into function composition, crafting a `compose` function to combine an array of functions into a single one. This revealed the elegance of functional programming in JavaScript.
 
 **Question - 07 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_7.png" width="500" height="250" alt="Question - 07"> <br> <br>
 **Question - 08 :** <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_8.png" width="500" height="250" alt="Question - 08"> <br>
@@ -102,10 +102,10 @@ live project @ [here](https://passwordgenerator05.vercel.app/) <br> source code 
 
 Today, I Solved 2 JavaScript DSA Questions on LeetCode.
 
-Problem 1: Return Length of Arguments Passed
+_Problem 1: Return Length of Arguments Passed_
 Problem Statement: Write a function argumentsLength that returns the count of arguments passed to it.
 
-Problem 2: Allow One Function Call
+_Problem 2: Allow One Function Call_
 Problem Statement: Given a function `fn`, return a new function that is identical to the original function except that it ensures `fn` is called at most once.
 
 This Questions Improved my Problem Solving Skills in; 
@@ -226,7 +226,7 @@ Tackled a JavaScript challenge by creating a debounced function to improve perfo
 
 # Day - 17
 
-Asynchronous JavaScript Challenge!
+_Asynchronous JavaScript Challenge!_
 
 Solved a problem executing async functions in parallel without Promise.all. Key steps: handle empty input, track results and resolve count, and ensure robust error handling. All promises run in parallel, resolving or rejecting as appropriate.
 
@@ -234,7 +234,7 @@ Solved a problem executing async functions in parallel without Promise.all. Key 
 
 # Day - 18
 
-Solved "Is Object Empty?" JavaScript Challenge!
+_Solved "Is Object Empty?" JavaScript Challenge!_
 
 Used for...in loop to determine if an object or array is empty by checking for key-value pairs or elements. Efficiently handles valid JSON objects/arrays. 
 
@@ -244,7 +244,7 @@ Used for...in loop to determine if an object or array is empty by checking for k
 
 🚀 Day 19/100 of the #100DaysOfCode
 
-Question: Chunk Array
+_Question: Chunk Array_
 
 Today, I solved a JavaScript problem: Chunk Array. I divided an array into subarrays of a specified size without using lodash's _.chunk function. Efficient and clean solution achieved! 
 
@@ -252,14 +252,14 @@ Today, I solved a JavaScript problem: Chunk Array. I divided an array into subar
 
 # day - 20
 
-Question: Array Prototype Last
+_Question: Array Prototype Last_
 Enhances all arrays with a last() method that returns the last element, or -1 if the array is empty. This implementation ensures that arrays parsed from JSON can easily access their final element.
 
 **Question - 22 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Progress/leetcode_js_prob_22.png" width="500" height="250" alt="Question - 22"> <br>
 
 # Day - 21
 
-Question: JavaScript Group By Challenge
+_Question: JavaScript Group By Challenge_
 
 Enhanced arrays with a groupBy(fn) method to group elements into an object based on a callback function's output. This exercise deepened my understanding of JavaScript array and object handling without relying on external libraries. Feeling accomplished and ready for more!
 
@@ -267,7 +267,7 @@ Enhanced arrays with a groupBy(fn) method to group elements into an object based
 
 # Day - 22 
 
-Question: Sort By
+_Question: Sort By_
 
 Today, I solved a JavaScript problem involving custom sorting of an array using a comparison function.
 
@@ -275,7 +275,7 @@ Today, I solved a JavaScript problem involving custom sorting of an array using 
 
 # Day - 23 
 
-Question: Join Two Arrays by ID in JavaScript
+_Question: Join Two Arrays by ID in JavaScript_
 
 Solved a JavaScript problem where I merged two arrays of objects based on their id property, ensuring unique id values and sorting the result in ascending order by id.
 
@@ -283,7 +283,7 @@ Solved a JavaScript problem where I merged two arrays of objects based on their 
 
 # Day - 24
 
-Question: Flatten Deeply Nested Array in JavaScript
+_Question: Flatten Deeply Nested Array in JavaScript_
 
 Solved a problem to flatten a deeply nested array up to a specified depth without using Array.flat. The solution involves a recursive approach to handle array traversal and depth control.
 
@@ -291,7 +291,7 @@ Solved a problem to flatten a deeply nested array up to a specified depth withou
 
 # Day - 25 
 
-Question: Compact Object in JavaScript
+_Question: Compact Object in JavaScript_
 
 Compact Object. The goal was to remove all falsy values from objects and arrays, including nested structures. Using recursion and built-in methods like filter, map, and reduce, I created a solution that efficiently handles valid JSON inputs.
 
@@ -299,7 +299,7 @@ Compact Object. The goal was to remove all falsy values from objects and arrays,
 
 # Day - 26
 
-Question: Event Emitter in JavaScript
+_Question: Event Emitter in JavaScript_
 
 Today, I designed an EventEmitter class in JavaScript, enhancing my skills in event-driven programming. It supports subscribing and unsubscribing to events, and emitting events with arguments. This exercise improved my understanding of scalable code and asynchronous callbacks.
 
@@ -307,7 +307,7 @@ Today, I designed an EventEmitter class in JavaScript, enhancing my skills in ev
 
 # Day - 27 
 
-Question: Array Wrapper in JS 
+_Question: Array Wrapper in JS_
 
 Today I implemented an Array Wrapper class in JavaScript. This class allows:
 
@@ -318,7 +318,7 @@ Today I implemented an Array Wrapper class in JavaScript. This class allows:
 
 # Day - 28
 
-Question: Calculator with Method Chaining in TypeScript
+_Question: Calculator with Method Chaining in TypeScript_
 
 A Calculator class that supports method chaining for addition, subtraction, multiplication, division, and exponentiation. The class ensures safe division by handling division by zero and provides a fluent interface for consecutive operations. Retrieve the current result with the getResult method.
 
@@ -328,7 +328,7 @@ A Calculator class that supports method chaining for addition, subtraction, mult
 
 From Today, I've Started to Solve LeetCode Daily Question Along-side Learning React / Web Development. 
 
-Today's Question: Score of a String (I'm trying to Solve this Problems in TypeScript/JavaScript Language)
+_Today's Question: Score of a String (I'm trying to Solve this Problems in TypeScript/JavaScript Language)_
 
 Solved the problem by summing the absolute differences between the ASCII values of adjacent characters.
 
@@ -336,13 +336,13 @@ Solved the problem by summing the absolute differences between the ASCII values 
 
 # Day - 30
 
-Solved LeetCode's Reverse String problem by implementing a JavaScript function that reverses a string in place using two pointers.
+_Solved LeetCode's Reverse String_ problem by implementing a JavaScript function that reverses a string in place using two pointers.
 
 **Question - 32 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_2.png" width="500" height="250" alt="Question - 32"> <br>
 
 # Day - 31 
 
-Question: Append Characters
+_Question: Append Characters_
 
 Solved a LeetCode Daily Question to determine the minimum number of characters needed to be appended to a string s so that another string t becomes a subsequence of s. This solution involves efficient string manipulation and comparison techniques.
 
@@ -350,7 +350,7 @@ Solved a LeetCode Daily Question to determine the minimum number of characters n
 
 # Day - 32
 
-Question: Longest Palindrome in JavaScript
+_Question: Longest Palindrome in JavaScript_
 
 This code finds the longest possible palindrome substring length in a string considering both even and odd character frequencies.
 
@@ -359,7 +359,7 @@ This code finds the longest possible palindrome substring length in a string con
 
 # Day - 33 
 
-Question: Find Common Characters in TypeScript
+_Question: Find Common Characters in TypeScript_
 
 Solved "Find Common Characters" by creating a function that identifies and returns the common characters appearing in all strings of a given array. The solution efficiently calculates the minimum frequency of each character across all words.
 
@@ -368,7 +368,7 @@ Solved "Find Common Characters" by creating a function that identifies and retur
 
 # Day - 34
 
-Question: Replace Words in TypeScript
+_Question: Replace Words in TypeScript_
 
 Implemented a solution to the "Replace Words" problem using a Trie data structure for efficient word replacement. The solution involves inserting dictionary roots into the trie and replacing derivatives in a sentence with their corresponding roots.
 
@@ -377,7 +377,7 @@ Implemented a solution to the "Replace Words" problem using a Trie data structur
 
 # Day - 35
 
-Question: Continuous Subarray Sum
+_Question: Continuous Subarray Sum_
 
 Solved the LeetCode problem to check if an array contains a subarray with at least two elements whose sum is a multiple of k. Used a map to track remainders of the cumulative sum to efficiently determine the presence of such a subarray.
 
@@ -385,7 +385,7 @@ Solved the LeetCode problem to check if an array contains a subarray with at lea
 
 # Day - 36
 
-Question: Subarray Sums Divisible by K - in Python
+_Question: Subarray Sums Divisible by K - in Python_
 
 Solved the LeetCode problem "Subarray Sums Divisible by K" using a dictionary to track remainders of prefix sums. This approach efficiently counts the number of subarrays with sums divisible by k.
 
@@ -393,7 +393,7 @@ Solved the LeetCode problem "Subarray Sums Divisible by K" using a dictionary to
 
 # Day - 37
 
-Question: Height Checker - in JavaScript
+_Question: Height Checker - in JavaScript_
 
 Solved the "Height Calculator" problem in JavaScript. Implemented an efficient solution to find mismatched indices in height orderings with O(n) time and space complexity. Feeling great about the progress!
 
@@ -401,7 +401,7 @@ Solved the "Height Calculator" problem in JavaScript. Implemented an efficient s
 
 # Day - 38
 
-Question: Relative Sort Array - in JavaScript
+_Question: Relative Sort Array - in JavaScript_
 
 Today I solved the LeetCode Daily Question "Relative Sort Array" in JavaScript. The solution involves counting occurrences of each number in arr1, ordering them based on arr2, and appending any remaining numbers in ascending order.
 
@@ -409,7 +409,7 @@ Today I solved the LeetCode Daily Question "Relative Sort Array" in JavaScript. 
 
 # Day - 39
 
-Question: Sort Colors
+_Question: Sort Colors_
 
 Solved the LeetCode Daily Question "Sort Colors" in JavaScript. Implemented an in-place sorting algorithm using three pointers to sort the array in one pass without using the library's sort function.
 
@@ -417,7 +417,7 @@ Solved the LeetCode Daily Question "Sort Colors" in JavaScript. Implemented an i
 
 # Day - 40
 
-Question: 2037 - Minimum Number of Moves to Seat Everyone - in JavaScript
+_Question: 2037 - Minimum Number of Moves to Seat Everyone - in JavaScript_
 
 Sort both seats and students arrays, then calculate the total moves required by summing the absolute differences between corresponding elements. This ensures each student is seated with the minimum number of moves.
 
@@ -425,7 +425,7 @@ Sort both seats and students arrays, then calculate the total moves required by 
 
 # Day - 41
 
-Question: 945 - Minimum Increment to Make Array Unique - in JavaScript
+_Question: 945 - Minimum Increment to Make Array Unique - in JavaScript_
 
 Solved the LeetCode problem "Minimum Increment to Make Array Unique" in JavaScript. The solution involves sorting the array, iterating through it to calculate necessary increments, and ensuring all elements are unique with the minimum number of moves.
 
@@ -433,7 +433,7 @@ Solved the LeetCode problem "Minimum Increment to Make Array Unique" in JavaScri
 
 # Day - 42
 
-Question: 502 - IPO - in JavaScript
+_Question: 502 - IPO - in JavaScript_
 
 Maximizes capital by completing up to k projects using a priority queue to manage and select the most profitable projects within available capital.
 
@@ -441,7 +441,7 @@ Maximizes capital by completing up to k projects using a priority queue to manag
 
 # Day - 43
 
-Question: 330 - Patching Array - in JavaScript
+_Question: 330 - Patching Array - in JavaScript_
 
 Ensured any number in `[1, n]` can be formed by patching elements to the array with minimal additions.
 
@@ -449,7 +449,7 @@ Ensured any number in `[1, n]` can be formed by patching elements to the array w
 
 # Day - 44
 
-Question: 633 - Sum of Square Numbers - in JavaScript
+_Question: 633 - Sum of Square Numbers - in JavaScript_
 
 Used a two-pointer approach in JavaScript to check if a non-negative integer c can be expressed as the sum of two squares. #LeetCode #JavaScript
 
@@ -457,7 +457,7 @@ Used a two-pointer approach in JavaScript to check if a non-negative integer c c
 
 # Day - 45
 
-Question: 826 - Most Profit Assigning Work - in JavaScript
+_Question: 826 - Most Profit Assigning Work - in JavaScript_
 
 Implemented a solution to maximize total profit by assigning workers to jobs based on their abilities, optimizing job difficulty and profit. 🚀
 
@@ -465,13 +465,13 @@ Implemented a solution to maximize total profit by assigning workers to jobs bas
 
 # Day - 46
 
-Solved LeetCode's 1482 - Minimum Number of Days to Make m Bouquets using binary search to efficiently find the earliest day to form the required bouquets.
+_Solved LeetCode's 1482 - Minimum Number of Days to Make m Bouquets_ using binary search to efficiently find the earliest day to form the required bouquets.
 
 **Question - 48 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_18.png" width="500" height="250" alt="Question - 48">
 
 # Day - 47
 
-Question: 1552 - Magnetic Force Between Two Balls - in JS on LeetCode
+_Question: 1552 - Magnetic Force Between Two Balls - in JS on LeetCode_
 
 Solved the problem using a binary search approach in JavaScript to maximize the minimum magnetic force between balls placed in baskets. The solution sorts the positions and performs a binary search to find the optimal placement distance.
 
@@ -479,7 +479,7 @@ Solved the problem using a binary search approach in JavaScript to maximize the 
 
 # Day - 48
 
-Question: 1052 - Grumpy Bookstore Owner - in JS on LeetCode
+_Question: 1052 - Grumpy Bookstore Owner - in JS on LeetCode_
 
 Used a sliding window technique to maximize customer satisfaction by calculating always satisfied customers and optimizing additional satisfaction during a grumpy period.
 
@@ -487,13 +487,13 @@ Used a sliding window technique to maximize customer satisfaction by calculating
 
 # Day - 49
 
-Solved LeetCode Problem 1248: Count Number of Nice Subarrays in JavaScript. Utilized a sliding window approach to efficiently count subarrays with exactly k odd numbers.
+_Solved LeetCode Problem 1248: Count Number of Nice Subarrays_ in JavaScript. Utilized a sliding window approach to efficiently count subarrays with exactly k odd numbers.
 
 **Question - 51 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_21.png" width="500" height="250" alt="Question - 51">
 
 # Day - 50
 
-Solved LeetCode 1438: Longest Continuous Subarray With Absolute Diff ≤ Limit using deques in JavaScript to efficiently manage the sliding window. Tracked indices of max and min values to maintain the longest valid subarray.
+_Solved LeetCode 1438: Longest Continuous Subarray_ With Absolute Diff ≤ Limit using deques in JavaScript to efficiently manage the sliding window. Tracked indices of max and min values to maintain the longest valid subarray.
 
 **Question - 52 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_22.png" width="500" height="250" alt="Question - 52">
 
@@ -511,7 +511,7 @@ Today I solved LeetCode Problem 1038: Binary Search Tree to Greater Sum Tree usi
 
 # Day - 53 
 
-Problem 1791 - Find Center of Star Graph
+_Problem 1791 - Find Center of Star Graph_
 
 Given an undirected star graph represented by edge pairs, where each pair [ui, vi] indicates an edge between nodes ui and vi, find and return the center node of the star graph. The center node connects to every other node via exactly n - 1 edges, making it the node with the highest degree in the graph.
 
@@ -521,7 +521,7 @@ This solution efficiently determines the center node in O(E) time complexity, wh
 
 # Day - 54
 
-Problem 2192 - All Ancestors of a Node in a Directed Acyclic Graph
+_Problem 2192 - All Ancestors of a Node in a Directed Acyclic Graph_
 
 Implemented a solution to find ancestors for nodes in a Directed Acyclic Graph (DAG). Used DFS to traverse the graph, recording ancestors for each node. The result is a list where each element contains the sorted ancestors of the corresponding node.
 
@@ -529,7 +529,7 @@ Implemented a solution to find ancestors for nodes in a Directed Acyclic Graph (
 
 # Day - 55
 
-Problem 1579 - Remove Max Number of Edges to Keep Graph Fully Traversable
+_Problem 1579 - Remove Max Number of Edges to Keep Graph Fully Traversable_
 
 featured a UnionFind class for managing disjoint sets with union and find operations, and a Solution class with maxNumEdgesToRemove to solve a graph problem by handling different edge types. It returns the number of redundant edges removed or -1 if the graph cannot be fully connected.
 
@@ -537,7 +537,7 @@ featured a UnionFind class for managing disjoint sets with union and find operat
 
 # Day - 56
 
-Problem:  1550 -  Three Consecutive Odds
+_Problem:  1550 -  Three Consecutive Odds_
 
 Implemented a solution to check if an integer array contains three consecutive odd numbers. Iterated through the array and used a counter to track consecutive odds.
 
@@ -545,8 +545,14 @@ Implemented a solution to check if an integer array contains three consecutive o
 
 # Day - 57
 
-Problem:  2582 - Pass the Pillow
+_Problem:  2582 - Pass the Pillow_
 
 The `passThePillow` function calculates the position of the person holding the pillow after a given time for `n` people. It uses the remainder of time divided by `(n - 1) * 2` to manage the cyclical pattern, returning the position based on whether the remainder is less than `n` (clockwise) or not (counterclockwise).
 
 **Question - 59 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_29.png" width="500" height="250" alt="Question - 59">
+
+# Day - 58
+
+_Solved LeetCode's Problem:  1518 - Water Bottles_
+
+**Question - 60 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_30.png" width="500" height="250" alt="Question - 60">
