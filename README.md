@@ -556,3 +556,11 @@ The `passThePillow` function calculates the position of the person holding the p
 _Solved LeetCode's Problem:  1518 - Water Bottles_
 
 **Question - 60 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_30.png" width="500" height="250" alt="Question - 60">
+
+# Day - 59
+
+_Solved LeetCode's Problem: 1598 - Crawler Log Folder_
+
+Problem was to Perform Operations, like `../` - to move the parent directory to current directory, `./` - to remain in the same directory, `x/` - move to the child directory named `x` and directory `x` is guaranteed to always exist. 
+
+**Question - 61 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_31.png" width="500" height="250" alt="Question - 61"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_31_code" width="500" height="250" alt="Question - 61">
