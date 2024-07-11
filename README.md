@@ -564,3 +564,11 @@ _Solved LeetCode's Problem: 1598 - Crawler Log Folder_
 Problem was to Perform Operations, like `../` - to move the parent directory to current directory, `./` - to remain in the same directory, `x/` - move to the child directory named `x` and directory `x` is guaranteed to always exist. 
 
 **Question - 61 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_31.png" width="500" height="250" alt="Question - 61"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_31_code.png" width="500" height="250" alt="Question - 61">
+
+# Day - 60
+
+_Solved LeetCode's Problem 1190 - reverse substrings between each pair of parantheses_
+
+The most straightforward approach is to use a `stack` to keep track of the opening parentheses, and then reverse the substrings between `each pair` of parentheses as we iterate through the string.
+
+**Question - 62 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_32.png" width="500" height="250" alt="Question - 62"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_32_code.png" width="500" height="250" alt="Question - 62">
