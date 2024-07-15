@@ -572,3 +572,12 @@ _Solved LeetCode's Problem 1190 - reverse substrings between each pair of parant
 The most straightforward approach is to use a `stack` to keep track of the opening parentheses, and then reverse the substrings between `each pair` of parentheses as we iterate through the string.
 
 **Question - 62 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_32.png" width="500" height="250" alt="Question - 62"> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/daily_32_code.png" width="500" height="250" alt="Question - 62">
+
+
+# Day - 61
+
+_Solved LeetCode's Problem 2196 - Create Binary Tree From Desc._
+
+The `createBinaryTree function` constructs a binary tree from descriptions using `maps` to track node relationships, creating nodes, updating maps, and returning the root.
+
+**Question - 63 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_33.png" width="500" height="250" alt="Question - 63">
