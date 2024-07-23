@@ -581,3 +581,13 @@ _Solved LeetCode's Problem 2196 - Create Binary Tree From Desc._
 The `createBinaryTree function` constructs a binary tree from descriptions using `maps` to track node relationships, creating nodes, updating maps, and returning the root.
 
 **Question - 63 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_33.png" width="500" height="250" alt="Question - 63">
+
+
+# Day - 62
+
+_Solved LeetCode's Problem 1636 - Sort Array by Increasing Frequency_
+
+Used  a `fixed-size array` of length **201** to count occurrences. For an element num, its index is **num + 100**.
+then Utilized  a custom comparator to sort the original list based on frequency `(higher frequency first)` and then by natural order for ties.
+
+**Question - 64 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_34.png" width="500" height="250" alt="Question - 64">
