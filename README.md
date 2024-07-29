@@ -582,7 +582,6 @@ The `createBinaryTree function` constructs a binary tree from descriptions using
 
 **Question - 63 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_33.png" width="500" height="250" alt="Question - 63">
 
-
 # Day - 62
 
 _Solved LeetCode's Problem 1636 - Sort Array by Increasing Frequency_
@@ -591,3 +590,9 @@ Used  a `fixed-size array` of length **201** to count occurrences. For an elemen
 then Utilized  a custom comparator to sort the original list based on frequency `(higher frequency first)` and then by natural order for ties.
 
 **Question - 64 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_34.png" width="500" height="250" alt="Question - 64">
+
+# Day - 63
+
+_Solved LeetCode's Problem 2976 - Minimum Cost to Convert String I_
+
+**Question - 65 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_35.png" width="500" height="250" alt="Question - 65">
