@@ -596,3 +596,9 @@ then Utilized  a custom comparator to sort the original list based on frequency 
 _Solved LeetCode's Problem 2976 - Minimum Cost to Convert String I_
 
 **Question - 65 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_35.png" width="500" height="250" alt="Question - 65">
+
+# Day - 64
+
+_Solved LeetCode's Problem 1653 - Minimum Deletions to Make String Balanced_
+
+**Question - 66 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_36.png" width="500" height="250" alt="Question - 66">
