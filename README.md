@@ -601,4 +601,4 @@ _Solved LeetCode's Problem 2976 - Minimum Cost to Convert String I_
 
 _Solved LeetCode's Problem 1653 - Minimum Deletions to Make String Balanced_
 
-**Question - 66 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_36.png" width="500" height="250" alt="Question - 66">
+**Question - 66 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_37.png" width="500" height="250" alt="Question - 66">
