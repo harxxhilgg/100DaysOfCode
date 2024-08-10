@@ -18,19 +18,19 @@ function InputBox({
   const amountInputId = useId();
 
   return (
-    <div className={`bg-white p-3 rounded-lg text-sm flex ${className}`}>
+    <div className={`bg-[#F5F5DC] p-3 text-sm flex ${className}`}>
       <div className="w-1/2">
         <label
           htmlFor={amountInputId}
-          className="text-black/40 mb-2 inline-block"
+          className="text-black/70 mb-2 inline-block"
         >
           {label}
         </label>
         <input
           id={amountInputId}
-          className="outline-none w-full bg-transparent py-1.5"
+          className="outline-none w-full bg-[#F5F5DC] py-1.5 pl-2"
           type="number"
-          placeholder="Amount"
+          placeholder="enter amount here"
           disabled={amountDisable} // check amount is disabled or not
           value={amount} // take value from amount
           onChange={(e) =>
@@ -39,9 +39,9 @@ function InputBox({
         />
       </div>
       <div className="w-1/2 flex flex-wrap justify-end text-right">
-        <p className="text-black/40 mb-2 w-full">Currency Type</p>
+        <p className="text-black/70 mb-2 w-full">Currency Type</p>
         <select
-          className="rounded-lg px-1 py-1 bg-gray-100 cursor-pointer outline-none"
+          className="px-1 py-1 bg-[#D5DBC0] cursor-pointer outline-none appearance-none text-center"
           value={selectCurrency}
           onChange={(e) => onCurrencyChange && onCurrencyChange(e.target.value)}
           disabled={currencyDisable}
