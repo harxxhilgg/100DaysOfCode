@@ -86,7 +86,7 @@ function App() {
           </form>
         </div>
         <div className="text-[#DCC9BC] mt-16 text-center opacity-20 italic hover:text-white hover:opacity-50 select-none duration-300">
-          In the event of a error, please reload the site.
+          {/* In the event of a error, please reload the site. */} Error? Reload.
         </div>
       </div>
     </div>
