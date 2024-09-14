@@ -58,12 +58,12 @@ function App() {
               <button
                 type="button"
                 className="px-2 py-0.5 absolute left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-sm text-[#252525] overflow-hidden border-none bg-white duration-500 hover:bg-[#DCC9BC]"
-                onClick={swap}
+                onClick={swap} 
               >
                 <span className="relative z-10">Swap</span>
               </button>
             </div>
-            <div className="w-full mt-1 mb-4">
+            <div className="w-full mt-1 mb-4"> 
               <InputBox
                 label="To"
                 amount={convertedAmount}
@@ -80,7 +80,7 @@ function App() {
               <span className="relative z-10">
                 Convert {from.toUpperCase()} to {to.toUpperCase()}
               </span>
-            </button>
+            </button> 
           </form>
         </div>
         <div className="text-[#DCC9BC] mt-10 text-center opacity-20 italic hover:text-white hover:opacity-90 select-none duration-300 text-lg">
