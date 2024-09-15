@@ -611,6 +611,8 @@ _Solved LeetCode's Problem 2022 - Convert 1D Array Into 2D Array_
 
 # Day - 66
 
-_Learning Context APIs with Projects and Documentation_
+_Learning Context APIs with a Project: MiniContext_
 
-**Question - 67 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_38.png" width="500" height="250" alt="Question - 67">
+full post [here](https://www.linkedin.com/posts/harxxhilgg_100daysofcode-activity-7241023273528905728-ZOIe?utm_source=share&utm_medium=member_desktop)
+
+<img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/08miniContext/public/homepage.png" width="500" height="250" alt="contextAPI">
