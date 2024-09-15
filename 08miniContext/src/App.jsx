@@ -7,7 +7,6 @@ function App() {
 
   return (
     <UserContextProvider>
-      <h1>React with Vodka</h1>
       <Login />
       <Profile />
     </UserContextProvider>

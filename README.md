@@ -608,3 +608,9 @@ _Solved LeetCode's Problem 1653 - Minimum Deletions to Make String Balanced_
 _Solved LeetCode's Problem 2022 - Convert 1D Array Into 2D Array_
 
 **Question - 67 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_38.png" width="500" height="250" alt="Question - 67">
+
+# Day - 66
+
+_Learning Context APIs with Projects and Documentation_
+
+**Question - 67 :**  <br> <img src="https://github.com/harxxhilgg/100DaysOfCode/blob/main/LeetCode%20Daily%20Challenge/leetcode_daily_38.png" width="500" height="250" alt="Question - 67">
