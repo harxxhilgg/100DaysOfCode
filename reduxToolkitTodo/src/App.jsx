@@ -8,7 +8,7 @@ function App() {
         TO-DO App using RTK
       </h1>
 
-      <div className="bg-[#593d88] flex flex-col rounded-lg ml-96 mr-96 p-5">
+      <div className="bg-[#593d88] rounded-lg w-1/2 p-5 fixed left-1/4 top-1/3 translate-">
         <AddTodo />
         <Todos />
       </div>
