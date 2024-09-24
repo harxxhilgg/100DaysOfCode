@@ -4,7 +4,7 @@ import Todos from "./components/Todos";
 function App() {
   return (
     <>
-      <h1 className="text-center text-5xl font-bold bg-violet-500 block m-auto pt-10 pb-10">
+      <h1 className="text-center text-5xl font-bold bg-violet-500 block m-auto pt-10 pb-10 text-gray-900">
         {" "}
         TO-DO <span className="italic">Redux</span>
       </h1>

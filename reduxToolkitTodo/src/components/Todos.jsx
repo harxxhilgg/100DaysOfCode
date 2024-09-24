@@ -20,7 +20,7 @@ function Todos() {
 
     <>
       <div className="mt-14">
-        <div className="text-[20pt] mb-6 font-semibold">Your Todos</div>
+        <div className="text-[20pt] mb-6 text-gray-900">Your Todos</div>
         <ul className="">
           {todos.map((todo) => (
             <li
